@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>arduino.qml</file>
+        <file>overlay.png</file>
+        <file>background.png</file>
+        <file>Dial.qml</file>
+        <file>needle_shadow.png</file>
+        <file>needle.png</file>
+    </qresource>
+</RCC>
